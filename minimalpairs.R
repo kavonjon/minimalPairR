@@ -165,8 +165,12 @@ their capital counterparts)?")
 ########### start code execution timer
 
 message("Beginning calculations now...
+
 (Note that this can take some time.
-A wordlist of >10,000 items may take an hour or more)")
+A wordlist of >10,000 items may take an hour or more.
+
+If you are short on time, use a .csv or .xlsx file as input -
+.ods can take significantly longer.)")
 
 # you can run everything left in the script simultaneously to ensure
 # the timer is accurate (and if you don't need to see each step) 
