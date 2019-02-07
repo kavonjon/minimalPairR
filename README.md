@@ -23,6 +23,7 @@ Finally, the use of an R-script is to encourage the user to tweak the code as ne
 ## Prerequisites
 
 R (optionally with RStudio), in order to run an R-script
+
 A wordlist as a column in a .csv, .ods, or .xlsx file
 
 ## Outputs
